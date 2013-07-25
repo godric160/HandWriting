@@ -1,4 +1,0 @@
-HandWriting
-===========
-
-Team
